@@ -1,6 +1,6 @@
 
 
-#BANK PROJECT
+# BANK PROJECT
 
 This project is a simulation of a standard bank management software, written in C++. The program allows the user to create a
 new customer profile, add accounts and perform transactions with those accounts such as depositing, withdrawing and transfering

@@ -34,7 +34,7 @@ string bestString();
 // ********************* BEGIN GLOBAL VARIABLE INITIALIZATIONS ****************
 vector<string> population; // vector of strings that contains the population
 vector<double> fitness; // vector of doubles containing fitness values for each string
-string target = "they were roommates"; // target phrase
+string target = "the ting goes skrrra"; // target phrase
 double mutationRate = 1;
 int generations = 0;
 

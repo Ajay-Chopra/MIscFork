@@ -13,11 +13,17 @@ The algorithm consists of the following:
 
 While (Target is not Reached):
   2. Calculate the fitness of each member of the population
+  
   3. Put members into a mating pool based on fitness
+  
   4. Perform reproduction
+  
     4a. Crossover
+    
     4b. Mutation
+    
   5. Replace old population with next generation
+  
   6. Check if Target is Reached
   
  ### Fitness Function and Mating Pool Selection

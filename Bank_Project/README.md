@@ -12,6 +12,9 @@ To run this program, all you need is a standard compiler for C++ (I used clang) 
 given throughout the program should make testing rather easy. The user should feel free to write any inputs as specified by the
 directions given.
 
+### ACKNOWLEDGEMENTS
+Credit goes to the website CodeWithC.com for posting the idea for this project.
+
 
 Author: Ajay Chopra
 

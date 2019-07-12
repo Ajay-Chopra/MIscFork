@@ -39,6 +39,10 @@ While (Target is not Reached):
  target string, mutation rate and initial population size to see how they affet performance.
  
  
+  ### Acknowledgements
+  Huge credit goes to David Shiffman aka The Coding Train for giving me the idea for this project.
+ 
+ 
  Author: Ajay Chopra
  
  

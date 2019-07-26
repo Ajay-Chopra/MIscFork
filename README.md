@@ -1,2 +1,2 @@
 # Personal-Projects
-Personal coding projects written in C and C++
+Personal coding projects written in C/C++ and Python
